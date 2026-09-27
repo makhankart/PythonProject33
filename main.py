@@ -1,3 +1,4 @@
+from games import *
 def show_games(games):
     print("=======Каталог настольных игр=======")
     for number, game in enumerate(games, start=1):

@@ -1,4 +1,5 @@
-from games import *
+
+from main import show_games
 
 games = [
     {
